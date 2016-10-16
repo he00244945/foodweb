@@ -1,0 +1,26 @@
+{
+  "name": "ben",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/he00244945/foodweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/he00244945/foodweb/issues"
+  },
+  "homepage": "https://github.com/he00244945/foodweb#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "hbs": "^4.0.1"
+  }
+}
